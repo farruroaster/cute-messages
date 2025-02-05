@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "./static/js/main.e0f4fae0.js",
-    "index.html": "./index.html",
-    "main.e0f4fae0.js.map": "./static/js/main.e0f4fae0.js.map"
+    "main.js": "/cute-messages/static/js/main.e0f4fae0.js",
+    "index.html": "/cute-messages/index.html",
+    "main.e0f4fae0.js.map": "/cute-messages/static/js/main.e0f4fae0.js.map"
   },
   "entrypoints": [
     "static/js/main.e0f4fae0.js"
